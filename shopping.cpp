@@ -72,8 +72,8 @@ void shopping:: administrator()
 	cout<<"\n\t\t\t|_____2) MODIFY THE PRODUCT__|";
 	cout<<"\n\t\t\t|                            |";
 	cout<<"\n\t\t\t|_____3) DELETE THE PRODUCT__|";
-    cout<<"\n\t\t\t|                            |";
-    cout<<"\n\t\t\t|_____4) BACK TO MAIN MENU___|";
+        cout<<"\n\t\t\t|                            |";
+        cout<<"\n\t\t\t|_____4) BACK TO MAIN MENU___|";
     
     cout<<"\n\n\t PLEASE ENTER YOUR CHOICE : ";
     cin>>choice;
